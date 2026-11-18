@@ -1,0 +1,8 @@
+{
+  "name": "carepulse-health-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A safety-first health guidance and emergency contact web prototype",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2"}
+}
